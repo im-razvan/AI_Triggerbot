@@ -68,7 +68,7 @@ def triggerbot():
                 # ic(x1,y1,x2,y2)
                 if x1 <= ALPHA <= x2 and y1 <= ALPHA <= y2:
                     click()
-                    sleep(0.1)
+                    sleep(0.07)
                     return
                 
 def main():
@@ -80,7 +80,7 @@ def main():
             if not STOPPED:
                 triggerbot()
 
-            sleep(0.02)
+            sleep(0.01)
         except KeyboardInterrupt:
             ic("Bye!")
             break

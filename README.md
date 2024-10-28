@@ -15,4 +15,5 @@ NVIDIA CUDA-supported universal AI triggerbot made in Python 3.11
 ![Preview image](https://i.ibb.co/BZZGV6t/Screenshot-2024-10-28-144819.png)
 
 ## Demo videos
-- [30 seconds video on Fortnite](https://www.youtube.com/watch?v=SEn01lV4EcI)
+- [Fortnite](https://www.youtube.com/watch?v=SEn01lV4EcI)
+- [Counter-Strike 2](https://www.youtube.com/watch?v=uSvbro6nXyc)
